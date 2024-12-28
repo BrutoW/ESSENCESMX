@@ -6,19 +6,19 @@ export const perfumes: PerfumeCollection = {
       name: "Hawas for Him Rasasi EDP 100ml",
       description: "Una fragancia de la familia olfativa Aromática Acuática para Hombres.",
       price: "$1300",
-      image: "src/images/Hawas.jpg"
+      image: "https://i.ibb.co/DQgbmq7/Hawas.jpg"
     },
     {
       name: "9 pm Rebel Afnan EDP 100ml",
       description: "una fragancia de la familia olfativa Aromática Frutal para Hombres y Mujeres.",
       price: "$1400",
-      image: "src/images/9pmrebel.jpg"
+      image: "https://i.ibb.co/S5yFBhX/9pmrebel.webp"
     },
     {
       name: "9 am Afnan EDP 100ml",
       description: "Una fragancia de la familia olfativa Aromática Acuática para Hombres y Mujeres.",
       price: "$1000",
-      image: "src/images/9AM.jpg"
+      image: "https://i.ibb.co/cxdRVv6/9am.jpg"
     }
   ],
   trending: [
@@ -26,7 +26,7 @@ export const perfumes: PerfumeCollection = {
       name: "9 pm Rebel Afnan EDP 100ml",
       description: "una fragancia de la familia olfativa Aromática Frutal para Hombres y Mujeres.",
       price: "$1400",
-      image: "src/images/9pmrebel.jpg"
+      image: "https://i.ibb.co/S5yFBhX/9pmrebel.webp"
     },
     {
       name: "Carolina Herrera EDP Bad Boy Cobalt 100ml",
@@ -46,13 +46,13 @@ export const perfumes: PerfumeCollection = {
       name: "Carolina Herrera EDP Bad Boy Cobalt 100ml",
       description: "Rich leather notes with black vanilla and musk",
       price: "$2200",
-      image: "src/images/cobalt.jpg"
+      image: "https://i.ibb.co/mJdD3mS/cobalt.webp"
     },
     {
       name: "Versace Pour Homme EDT 100ml",
       description: "Rare Damascus rose with crystalline musks",
       price: "$1300",
-      image: "src/images/versacePH.jpg"
+      image: "https://i.ibb.co/Mf09CVY/versace-PH.jpg"
     },
     {
       name: "JEAN PAUL GAULTIER EDP Le Beau Paradise Garden 100ml",
@@ -66,13 +66,13 @@ export const perfumes: PerfumeCollection = {
       name: "Carolina Herrera EDP Bad Boy Cobalt 100ml",
       description: "Rich leather notes with black vanilla and musk",
       price: "$2200",
-      image: "src/images/cobalt.jpg"
+      image: "https://i.ibb.co/mJdD3mS/cobalt.webp"
     },
     {
       name: "Versace Pour Homme EDT 100ml",
       description: "Rare Damascus rose with crystalline musks",
       price: "$1300",
-      image: "https://i.ibb.co/dphgvb0/versacedb.jpg"
+      image: "https://i.ibb.co/Mf09CVY/versace-PH.jpg"
     },
     {
       name: "JEAN PAUL GAULTIER EDP Le Beau Paradise Garden 100ml",
@@ -84,19 +84,19 @@ export const perfumes: PerfumeCollection = {
       name: "9 pm Rebel Afnan EDP 100ml",
       description: "una fragancia de la familia olfativa Aromática Frutal para Hombres y Mujeres.",
       price: "$1400",
-      image: "src/images/9pmrebel.jpg"
+      image: "https://i.ibb.co/S5yFBhX/9pmrebel.webp"
     },
     {
       name: "Hawas for Him Rasasi EDP 100ml",
       description: "Una fragancia de la familia olfativa Aromática Acuática para Hombres.",
       price: "$1300",
-      image: "src/images/Hawas.jpg"
+      image: "https://i.ibb.co/DQgbmq7/Hawas.jpg"
     },
     {
       name: "9 am Afnan EDP 100ml",
       description: "Una fragancia de la familia olfativa Aromática Acuática para Hombres y Mujeres.",
       price: "$1000",
-      image: "src/images/9AM.jpg"
+      image: "https://i.ibb.co/cxdRVv6/9am.jpg"
     },
     {
       name: "9 pm Afnan EDP 100ml",
@@ -108,7 +108,7 @@ export const perfumes: PerfumeCollection = {
       name: "Versace Dylan Blue 100ml",
       description: "Una fragancia de la familia olfativa Aromática Acuática para Hombres y Mujeres.",
       price: "$1300",
-      image: "src/images/versacedb.jpg"
+      image: "https://i.ibb.co/dphgvb0/versacedb.jpg"
     }
   ]
 };
