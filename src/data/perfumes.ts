@@ -72,7 +72,7 @@ export const perfumes: PerfumeCollection = {
       name: "Versace Pour Homme EDT 100ml",
       description: "Rare Damascus rose with crystalline musks",
       price: "$1300",
-      image: "src/images/versacePH.jpg"
+      image: "https://i.ibb.co/dphgvb0/versacedb.jpg"
     },
     {
       name: "JEAN PAUL GAULTIER EDP Le Beau Paradise Garden 100ml",
@@ -102,7 +102,7 @@ export const perfumes: PerfumeCollection = {
       name: "9 pm Afnan EDP 100ml",
       description: "Una fragancia de la familia olfativa Aromática Acuática para Hombres y Mujeres.",
       price: "$950",
-      image: "src/images/9pm.jpg"
+      image: "https://i.ibb.co/v1MrGrn/9pm.jpg"
     },
     {
       name: "Versace Dylan Blue 100ml",
